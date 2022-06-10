@@ -2,20 +2,21 @@
 I love data visualization, I love charts and graphic products. So my eyes are really sensitive with charts, shapes and colors. I believe that there will always a way to facititate the information digestion process for the audience by using data visualization.
 So there was a time when I was reading news on the Internet, I saw [this article](https://laodong.vn/tien-te-dau-tu/chung-khoan-tien-khon-dang-chay-vao-co-phieu-nao-1041204.ldo). This is an Vietnamese national journal about stock news. It's title is kind of like " Where does the "wise money" go?". And as you can guess, the chart immediately reached my eyes and got my attention. 
 I mean, it is such a wonderfull idea to add a viz to a type of article that is supposed to be full of numbers. But the thing is, this chart failed to aid the readers to digest the article. And turns out, it does not help at all.
-I think data visualization is not so popular in this kind of article in Vietnam. Poeple may add it like adding eye's candy for the dull news pages. Anyway, I believe it's worth me a try to give it a better visualization so the information would be conveyed more effective, because at the end of the day, I think, the audience deserve to have an easier way to digest information. 
-
+I think data visualization is not so popular in this kind of article in Vietnam. People may add it like adding eye's candy for the dull news pages. Anyway, I believe it's worth me a try to give it a better visualization so the information would be conveyed more effective, because at the end of the day, I think, the audience deserve to have an easier way to digest information. 
+ 
 Let's consider this viz and see how much we can help this viz communicate more effectively 
+
 # Inspection
-These are 
-Pros:
-- I like the idea of using visualization to summarize the information
-In this article, they use bar chart to show the information instead of throwing out a buch of hynotizing numbers. the 
-- The good use of chart
-Bar charts is such a good choise to visualize because they are simple and intuitive especially when comparing among several items. Additionally, the industries's name are listed in a logical order so the audience are easier to read the chart. The highlight
-Cons:
-+ The article does not leverage the advantage of data visualization
-The article does not use bar chart to reflect crucial problem, or in other words, the chart does not help answer the topic question which is “Where is the money flowing into?”
-+ The problem with the bar chart make it hard to support the the article in an effective way. 
+These followings are the pros and cons of the data viz 
+**Pros**
+* Using a cooler way to tell the story
+In this article, they use a chart to show the information instead of throwing out a buch of hynotizing numbers. Obviously, information in graphic form will be much easier to absorb.
+* The good use of chart
+Bar charts is such a good choice in this article to visualize because they are simple and intuitive especially when comparing among several items. Additionally, the industries'name are listed in a logical order so the audience are easier to read the chart. The highlight also is added to grasp the attention.
+**Cons**
+* The article does not leverage the advantage of data visualization
+The article does not use bar chart to reflect the crucial problem, or in other words, the chart does not help answer the topic question which is “Where is the money flowing into?”
+* The problems with the bar chart make it hard to support the the article in an effective way. 
 In the article, the bar chart summarize the information of a paragraph. However, the audience would find difficult to identify this paragraph. The chart gets the audience confused, or even misled
 Let’s inspect the problems with this data visualization and try to improve it.
 + the lack of title/subtitle gives the audience an ambiguous idea about what the chart is telling. 
