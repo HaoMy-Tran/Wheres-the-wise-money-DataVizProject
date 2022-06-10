@@ -1,21 +1,17 @@
+# Introduction
+I love data visualization, I love charts and graphic products. So my eyes are really sensitive with charts, shapes and colors. I believe that there will always a way to facititate the information digestion process for the audience by using data visualization.
+So there was a time when I was reading news on the Internet, I saw [this article](https://laodong.vn/tien-te-dau-tu/chung-khoan-tien-khon-dang-chay-vao-co-phieu-nao-1041204.ldo). This is an Vietnamese national journal about stock news. It's title is kind of like " Where does the "wise money" go?". And as you can guess, the chart immediately reached my eyes and got my attention. 
+I mean, it is such a wonderfull idea to add a viz to a type of article that is supposed to be full of numbers. But the thing is, this chart failed to aid the readers to digest the article. And turns out, it does not help at all.
+I think data visualization is not so popular in this kind of article in Vietnam. Poeple may add it like adding eye's candy for the dull news pages. Anyway, I believe it's worth me a try to give it a better visualization so the information would be conveyed more effective, because at the end of the day, I think, the audience deserve to have an easier way to digest information. 
 
-I love data visualization, I love charts and graphic products. So my eyes are really sensitive with charts, shapes and colors. I believe that, there will always a way to facititate the information digestion process for the audience by using data visualization.
-So there was a time when I was reading news on the Internet, I saw this article. This is an Vietnamese national journal. this is about stock news. it's title is kind of like " Where does the "wise money" go?". Find the original [here](https://laodong.vn/tien-te-dau-tu/chung-khoan-tien-khon-dang-chay-vao-co-phieu-nao-1041204.ldo). And as you can guess, the chart immediately reached my eyes. 
-I mean, it is such a wonderfull idea to add a viz to a type of article that is supposed to be full of numbers. But the thing is, this chart is failed in aiding the readers to digest the article. And turns out, it does not help at all.
-I think data visualization is not so popular in this kind of article in Vietnam. Poeple may add it like adding eye's candy for the dull  it's worth me a try to give it a better visualization so the information would be conveyed more effective, because at the end of the day, I think, the audience deserve to have an easier way to digest information. 
-
-in this article, I like the way they used the graph to tranmit the story instead of throwing a buch of information with hypnotizing numbers. However, as you take more time to read this news, it happens that the viz is so weak and it literally didn't help the article at all. 
-- Bar chart is the good choice, the industries's name are listed in a logical order so the audience are easier to read the chart.
-After inspect the chart carefully, I listed down the weaknesses of this viz, which are:
-- it gets me confused, or even misled, about exactly what it is trying to tell. this can be caused by the lack of a clear title/subtitle, lack of the scale for the x and y axises.
-- I also do not know why they highlight the VN-Index item over the other ones while they did not mention any further information in the article.
-- The viz gives 
-
+Let's consider this viz and see how much we can help this viz communicate more effectively 
+# Inspection
+These are 
 Pros:
 - I like the idea of using visualization to summarize the information
-In this article, they use bar chart to show the information instead of throwing out a buch of hynotizing numbers. 
+In this article, they use bar chart to show the information instead of throwing out a buch of hynotizing numbers. the 
 - The good use of chart
-Bar chart is such a good idea to visualize because it is simple and intuitive especially when comparing among several items.
+Bar charts is such a good choise to visualize because they are simple and intuitive especially when comparing among several items. Additionally, the industries's name are listed in a logical order so the audience are easier to read the chart. The highlight
 Cons:
 + The article does not leverage the advantage of data visualization
 The article does not use bar chart to reflect crucial problem, or in other words, the chart does not help answer the topic question which is “Where is the money flowing into?”
