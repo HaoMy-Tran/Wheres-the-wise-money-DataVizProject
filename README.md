@@ -1,7 +1,7 @@
 # Introduction
 I love data visualization, I love charts and graphic products. So my eyes are really sensitive to charts, shapes and colors. I believe that there will always be a way to facilitate the information digestion process for the audience by using data visualization.<br />
 So there was a time when I was reading news on the Internet, I saw [this article](https://laodong.vn/tien-te-dau-tu/chung-khoan-tien-khon-dang-chay-vao-co-phieu-nao-1041204.ldo). This is a Vietnamese National Journal about stock news. Its title is kind of like " Where does the "wise money" go?". And as you can guess, the chart immediately caught my eyes and got my attention. <br />
-I mean, it is such a great idea to add a viz to a type of article that is supposed to be full of numbers. But the thing is, this chart failed to aid the readers to digest the article. And turns out, it does not help at all.<br />
+I mean, it is such a great idea to add a viz to a type of article that is supposed to be full of numbers. But the thing is, this chart failed to aid the readers to digest the article. And it turns out, it does not help at all.<br />
 I think data visualization is not so popular in this kind of article in Vietnam. People may add it like adding eye's candy for the dull pages of news . Anyway, I believe it's worth a try to give it a better visualization so the information would be conveyed more effectively, because at the end of the day, I think, the audience deserve to have an easier way to digest information. <br />
  
 Let's consider this viz and see how much we can help it communicate more effectively!
@@ -43,7 +43,7 @@ These are steps that I have taken to create the first chart. <br />
 ## Improving the chart in the article.<br />
 ![image](https://user-images.githubusercontent.com/106227875/173179713-771a7fbd-c0a7-4c74-a156-7a36f7dd4b16.png)
   * **Using Excel to create a column chart** because I thought it would be a better reflection of decreasing numbers than a bar graph.   <br />
-  (optional)**Adding a highlight** for the VN-Index item.  However, this could be omitted because it was not relevant to the article’s content. 
+  * (optional)**Adding a highlight** for the VN-Index item.  However, this could be omitted because it was not relevant to the article’s content. 
   * **Setting the chart all in grey** <br />
   * **Filling color for the column with the numbers mentioned in the article**. I chose red for the columns to let the audience associate with the decreasing prices on the stock tickers.<br />
   * **Adding add-in information** (if any) to the columns. I kept the y-axis to make to column easier to look up the columns'values because there were too many columns for each column data label. <br />
