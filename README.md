@@ -22,7 +22,7 @@ In the article, the bar chart summarizes the information of a paragraph. However
 After studying the chart, I think there are some problems that need to be considered:
   * The lack of title/subtitle gives the audience an ambiguous idea about what the chart is telling.  
   * Adding irrelevant information <br />
-VN-INDEX, HNX-INDEX, UPCOM-INDEX are the items that differ from the others. Furthermore, throughout the article, these items, or its relationship with other items, are not mentioned at all. There is no explanation for why they are in the chart and how they interact with the other ones.
+VN-INDEX, HNX-INDEX, UPCOM-INDEX are the items that differ from the others. Furthermore, throughout the article, these items, or their relationship with other items, are not mentioned at all. There is no explanation for why they are in the chart and how they interact with the other ones.
   * Weak use of highlighting effects <br />
 It is easy to notice the red rectangular is added to attract the audience’s attention to the VN-INDEX item. However, this is such a lazy way of highlighting and does not give an aesthetic pleasing.  
 
