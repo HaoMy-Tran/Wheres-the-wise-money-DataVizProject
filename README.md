@@ -41,7 +41,7 @@ These are steps that I have taken to create the first chart. <br />
   * **Adding data labels for all the columns**. I also deleted y-axis because it was then redundant.<br />
   * **Adding title and subtitle** and let them in grey.<br />
 ## Improving the chart in the article.<br />
-![image](https://user-images.githubusercontent.com/106227875/173179713-771a7fbd-c0a7-4c74-a156-7a36f7dd4b16.png)
+![image](https://user-images.githubusercontent.com/106227875/173846407-2d371dae-99ba-4714-9298-fd999e238187.png)
   * **Using Excel to create a column chart** because I thought it would be a better reflection of decreasing numbers than a bar graph.   <br />
   * (optional)**Adding a highlight** for the VN-Index item.  However, this could be omitted because it was not relevant to the article’s content. 
   * **Setting the chart all in grey** <br />
