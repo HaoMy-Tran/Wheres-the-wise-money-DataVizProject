@@ -27,7 +27,7 @@ VN-INDEX, HNX-INDEX, UPCOM-INDEX are the items that differ from the others. Furt
 It is easy to notice the red rectangular is added to attract the audience’s attention to the VN-INDEX item. However, this is such a lazy way of highlighting and does not give an aesthetic pleasing.  
 
 # Implement 
-In this project, my work will narrow down the scope to the second part of the article which starts with the question “Where is the money flowing into?”. Accordingly, I will try to achieve two goals which are answering the topic question “Where is the money flowing into?” and improving the chart in the article. 
+In this project, my work will narrow down its scope to the second part of the article which starts with the question “Where is the money flowing into?”. Accordingly, I will try to achieve two goals which are answering the topic question “Where is the money flowing into?”, and improving the chart in the article. 
 
 ## Answering the topic question “Where is the money flowing into?”
 
